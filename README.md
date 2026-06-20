@@ -1,5 +1,5 @@
 # Bridging-the-Tap
-Equity: A Data-Driven Assessment of Sustainable Development Goal (SDG) 6 Progress using WHO/UNICEF JMP Data
+ A Data-Driven Assessment of Sustainable Development Goal (SDG) 6 Progress using WHO/UNICEF JMP Data
 # 🌍 Global Water Equity: SDG 6 Target Tracker & Predictive Forecasting Model
 
 ## 📌 Project Overview
