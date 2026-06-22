@@ -38,3 +38,9 @@ The master combined dataset (`JMP_2030_Master_Combined_Analytics.csv`) contains 
 ## 🛠️ Core Analytical Insights
 * **Model Divergence:** Positive values in `Prediction_Difference` isolate territories where recent infrastructure deployment waves are actively bending progress trajectories upwards, proving non-linear acceleration.
 * **The Stagnation Cluster:** Highlights regions showing an `Annual_Velocity` of exactly `0.0`, isolating critical gridlocks where policy implementation has stalled despite high baseline development.
+---
+
+## Full Project Access
+This Project dashboard was built with Vercel.app. Follow the link below for Visual Display of Analysis
+Link to Dashboard: https://bridging-the-tap-dashboard.vercel.app/
+Link to Repo: https://github.com/username/other-repo](https://github.com/Tunz-tech/Bridging-The-Tap-dashboard.
